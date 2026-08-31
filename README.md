@@ -1,20 +1,13 @@
 <div align="center">
-<br>
-  
+
 # Hi, I'm Trúc Linh 👋
 
-<p>
-  <sub>DEVELOPER&nbsp;&nbsp;·&nbsp;&nbsp;VIETNAM&nbsp;&nbsp;·&nbsp;&nbsp;LIFELONG LEARNER</sub>
-</p>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Developer+%C2%B7+Vietnam+%C2%B7+Lifelong+Learner;Turning+curiosity+into+code;Learning%2C+building%2C+creating" />
 
-A developer who believes great things<br>
-start with curiosity — learning, building,<br>
-and turning small ideas into something real.
+A developer who believes great things start with curiosity —
+learning, building, and turning small ideas into something real.
 
-<br>
 ━━━━━━━━━━━━━━━━━━━━━━
-<br>
 
 <a href="https://github.com/tlinhhhh">
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
@@ -24,10 +17,6 @@ and turning small ideas into something real.
   <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
 <sub>Thanks for stopping by ✦</sub>
-
-<br>
 
 </div>
