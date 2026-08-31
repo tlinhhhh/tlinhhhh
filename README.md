@@ -14,127 +14,72 @@
 
 ---
 
-## 🌸 About Me
-
-```python
-class TrucLinh:
-    def __init__(self):
-        self.name = "Đào Thị Trúc Linh"
-        self.role = "Student & Developer"
-        self.location = "Vietnam 🇻🇳"
-        self.learning = ["Python", "AI", "Machine Learning"]
-        self.interests = ["Coding 💻", "Technology 🤖", "Creative Design 🎨"]
-
-    def say_hi(self):
-        print("Thank you for visiting my GitHub! 💜✨")
-
-
-me = TrucLinh()
-me.say_hi()
-```
+## 🎯 My Current Goals
 
 <div align="center">
 
-| 🌷 | About                                     |
-| -- | ----------------------------------------- |
-| 🔭 | Currently working on exciting projects    |
-| 🌱 | Learning Python, AI & Machine Learning    |
-| 💻 | Passionate about programming & technology |
-| 🎨 | Interested in creative design             |
-| 🚀 | Always ready to learn something new       |
-
-</div>
-
----
-
-## 💜 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode&theme=dark" />
+### ✨ Turning Dreams Into Reality — One Goal at a Time ✨
 
 </div>
 
 <br>
 
+> 🌱 **My journey is not about being perfect — it's about becoming better every single day.**
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌱 Level Up My Skills
+> *Learning never stops.*
+
+🐍 Python & Programming  
+🟣 `████████░░` **80%**
+
+</td>
+
+<td width="50%">
+
+### 🤖 Explore The Future
+> *Curious about intelligent technology.*
+
+🧠 AI & Machine Learning  
+🟣 `██████░░░░` **60%**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Build Amazing Things
+> *Ideas become real through code.*
+
+🚀 Personal Projects  
+🟣 `███████░░░` **70%**
+
+</td>
+
+<td width="50%">
+
+### 🌍 Open Source Journey
+> *Learn. Share. Collaborate.*
+
+⭐ Open Source Contribution  
+🟣 `█████░░░░░` **50%**
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9370DB?style=for-the-badge\&logo=javascript\&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tlinhhhh&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb86fc&icon_color=bb86fc"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tlinhhhh&theme=tokyonight&hide_border=true&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc"/>
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlinhhhh&layout=compact&theme=tokyonight&hide_border=true&title_color=bb86fc"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tlinhhhh/tlinhhhh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🌟 My Coding Journey
-
-<div align="center">
+### 🚀 My Mission
 
 ```text
-🌱 Learn
-   ↓
-💡 Imagine
-   ↓
-💻 Code
-   ↓
-🐛 Debug
-   ↓
-🚀 Build
-   ↓
-✨ Improve
-   ↓
-🔁 Repeat
-```
-
-</div>
-
-> 💜 *"Every expert was once a beginner. Keep learning, keep growing, and never give up."*
-
----
-
-## 🎯 My Current Goals
-
-* 🌱 Improve my programming skills every day.
-* 🐍 Master Python programming.
-* 🤖 Explore Artificial Intelligence & Machine Learning.
-* 💻 Build useful and meaningful projects.
-* 🌎 Learn more about Open Source.
-* 🚀 Become a better version of myself every day.
-
+🌱 LEARN  →  💡 CREATE  →  💻 BUILD  →  🚀 GROW
 ---
 
 ## 🌸 A Little Message For You
