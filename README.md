@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Trúc%20Linh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%9C%A6%20Learner%20%E2%9C%A6%20Dreamer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20space&descAlignY=58&descSize=18"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=32&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=Turning+curiosity+into+code+%E2%9C%A6" />
-</h1>
+# 𝒯𝓇ú𝒸 𝐿𝒾𝓃𝒽
+
+### ✦ Developer · Learner · Dreamer ✦
+
+> *Turning curiosity into code, ideas into reality.*
+
+<br>
 
 💜 **Explore · Create · Learn · Repeat** 💜
 
