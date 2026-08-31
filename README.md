@@ -14,10 +14,8 @@ A developer who believes great things<br>
 start with curiosity — learning, building,<br>
 and turning small ideas into something real.
 
-<br><br>
-
+<br>
 ━━━━━━━━━━━━━━━━━━━━━━
-
 <br>
 
 <a href="https://github.com/tlinhhhh">
