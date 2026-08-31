@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Trúc%20Linh%20🇻🇳&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20space%20%E2%9C%A6&descAlignY=58&descSize=18"/>
-
 <br>
 
 ### ✦ Hello, I'm Trúc Linh
