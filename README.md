@@ -1,7 +1,5 @@
 <div align="center">
-
 <br>
-
 # Hi, I'm Trúc Linh 👋
 
 <p>
