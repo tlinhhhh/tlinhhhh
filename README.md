@@ -1,17 +1,15 @@
 <div align="center">
 <br>
+  
 # Hi, I'm Trúc Linh 👋
 
 <p>
   <sub>DEVELOPER&nbsp;&nbsp;·&nbsp;&nbsp;VIETNAM&nbsp;&nbsp;·&nbsp;&nbsp;LIFELONG LEARNER</sub>
 </p>
-
 <br>
-
 A developer who believes great things<br>
 start with curiosity — learning, building,<br>
 and turning small ideas into something real.
-
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━
 <br>
