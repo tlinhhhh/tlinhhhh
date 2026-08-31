@@ -7,8 +7,6 @@
 
 > *A Vietnamese developer who loves turning ideas into meaningful digital experiences.*
 <br>
-✨ **Explore with curiosity. Build with passion. Grow with purpose.**
-<br>
 <sub>Welcome to my little corner of the internet. 🇻🇳</sub>
 <br><br>
 
