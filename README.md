@@ -1,73 +1,83 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════╗
-     ║              ELEGANT HEADER                 ║
-     ╚══════════════════════════════════════════════╝ -->
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tr%C3%BAc+Linh+%F0%9F%91%8B;Welcome+to+my+world+%E2%9C%A8;Creative+%7C+Curious+%7C+Consistent" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21102F,45:4B1E6D,75:7B2CBF,100:C77DFF&height=190&section=header&text=Hi%2C%20I'm%20Trúc%20Linh%20🇻🇳&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=ffffff&strokeWidth=0"/>
+<br/>
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=truclinh&color=b19cd9&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/truclinh?label=Followers&style=flat-square&color=b19cd9)](https://github.com/truclinh)
 
-<!-- Animated tagline -->
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1200&color=9B5DE5&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+code+%E2%9C%A6;Creating+ideas+with+purpose+%E2%9C%A8;Learning%2C+building%2C+and+growing+every+day+%F0%9F%92%9C" />
+<br/>
 
-<br><br>
+<img align="right" width="380" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/gifs/Coding.gif" />
 
-<!-- Minimal introduction -->
+## 🌸 Về mình
 
-<p>
-  <i>
-    A Vietnamese developer passionate about creating<br>
-    meaningful things through code.
-  </i>
-</p>
+```yaml
+name: "Trúc Linh"
+role: "đang tự sáng tạo & phát triển bản thân mỗi ngày"
+location: "Việt Nam 🇻🇳"
+currently:
+  - "Học hỏi những điều mới mỗi ngày"
+  - "Xây dựng những dự án nho nhỏ nhưng tâm huyết"
+  - "Tin vào sự tử tế và cái đẹp trong từng chi tiết"
+motto: "Làm chậm mà chắc, nhưng luôn tiến về phía trước 🌱"
+```
 
-<br>
+> *"Sự tinh tế nằm ở những chi tiết nhỏ nhất."*
 
-<!-- Small identity line -->
+<br clear="right"/>
 
-<p>
-  🇻🇳 <b>Vietnam</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  💻 <b>Developer</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  ✦ <b>Lifelong Learner</b>
-</p>
+---
 
-<br>
+## 💫 Kỹ năng & Công cụ
 
-<!-- Social / profile links - replace if needed -->
+<div align="center">
 
-<a href="https://github.com/tlinhhhh">
-  <img src="https://img.shields.io/badge/GitHub-21102F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-&nbsp;
+*(👉 Chỉnh sửa lại danh sách này theo đúng kỹ năng thật của bạn nhé)*
 
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-<br><br>
+---
 
-<!-- Elegant divider -->
+## 📊 Thống kê GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=2&width=500"/>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=truclinh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=b19cd9&icon_color=b19cd9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truclinh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=b19cd9" />
+</div>
 
-<br>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=truclinh&theme=radical&hide_border=true&background=0D1117&ring=b19cd9&fire=b19cd9" />
+</div>
 
-### ✦ A little about me
+---
 
-<p>
-  I believe great things begin with curiosity.<br>
-  So I keep learning, creating, and turning ideas into reality.
-</p>
+## 🌐 Kết nối với mình
 
-<br>
+<div align="center">
 
-<!-- Footer -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21102F,45:4B1E6D,75:7B2CBF,100:C77DFF&height=100&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center">
+
+### 🌷 Cảm ơn bạn đã ghé thăm trang của mình! 🌷
+*Hãy để lại dấu ⭐ nếu bạn thích những gì mình làm nhé!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
